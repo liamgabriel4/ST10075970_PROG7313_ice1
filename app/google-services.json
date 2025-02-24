@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "364693945186",
+    "project_id": "liamfirebasics",
+    "storage_bucket": "liamfirebasics.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364693945186:android:d94d78ccf94e10ef13ca3b",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAt-ZKs9aj_6092H0LbO1AhenyVJn3An0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
